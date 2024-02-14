@@ -1,0 +1,600 @@
+
+
+<address addr="90:09:D0:1E:C7:84" addrtype="mac" vendor="Synology Incorporated"/>
+
+<address addr="58:11:22:9A:8D:FA" addrtype="mac" vendor="ASUSTek Computer"/>
+
+<address addr="F0:2F:74:21:30:2A" addrtype="mac" vendor="ASUSTek Computer"/>
+
+<address addr="00:1E:06:42:A9:C3" addrtype="mac" vendor="Wibrain"/>
+
+<address addr="CC:96:E5:E8:F1:AA" addrtype="mac" vendor="Dell"/>
+
+<address addr="00:A0:DE:F6:08:A5" addrtype="mac" vendor="Yamaha"/>
+
+<address addr="A2:F2:C9:65:05:8B" addrtype="mac"/>
+
+<address addr="F8:0F:F9:53:5A:EA" addrtype="mac" vendor="Google"/>
+
+<address addr="F8:0F:F9:53:5A:EA" addrtype="mac" vendor="Google"/>
+
+<address addr="9C:76:0E:57:F9:EA" addrtype="mac" vendor="Apple"/>
+
+<address addr="B8:27:EB:9D:A2:C8" addrtype="mac" vendor="Raspberry Pi Foundation"/>
+
+<address addr="F0:B3:EC:58:7D:71" addrtype="mac" vendor="Apple"/>
+
+<address addr="A0:78:17:6E:D4:70" addrtype="mac" vendor="Apple"/>
+
+<address addr="1E:44:8F:44:07:B2" addrtype="mac"/>
+
+<address addr="14:C1:4E:67:E2:A0" addrtype="mac" vendor="Google"/>
+
+<address addr="F0:B3:EC:58:7D:71" addrtype="mac" vendor="Apple"/>
+
+<address addr="F0:B3:EC:58:7D:71" addrtype="mac" vendor="Apple"/>
+
+<address addr="92:47:44:A1:53:26" addrtype="mac"/>
+
+<address addr="1C:93:C4:3F:29:13" addrtype="mac" vendor="Amazon Technologies"/>
+
+<address addr="40:4C:CA:7D:B2:98" addrtype="mac"/>
+
+<address addr="10:A5:1D:2B:2E:1F" addrtype="mac" vendor="Intel Corporate"/>
+
+<address addr="80:0C:F9:1D:A9:04" addrtype="mac" vendor="Amazon Technologies"/>
+
+<address addr="5A:51:85:3D:41:0B" addrtype="mac"/>
+
+<address addr="54:14:F3:9D:7A:29" addrtype="mac" vendor="Intel Corporate"/>
+
+<address addr="60:55:F9:40:11:A8" addrtype="mac" vendor="Espressif"/>
+
+<address addr="1C:53:F9:34:56:9A" addrtype="mac" vendor="Google"/>
+
+<address addr="00:A0:DE:F6:08:A5" addrtype="mac" vendor="Yamaha"/>
+<osmatch name="Yamaha RT58i or RT107e router" accuracy="100" line="107029">
+<osclass type="router" vendor="Yamaha" osfamily="embedded" accuracy="100"><cpe>cpe:/h:yamaha:netvolante_rt58i</cpe></osclass>
+</osmatch>
+
+<address addr="90:09:D0:1E:C7:84" addrtype="mac" vendor="Synology Incorporated"/>
+<osmatch name="Linux 3.2 - 4.9" accuracy="100" line="65323">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="100"><cpe>cpe:/o:linux:linux_kernel:3</cpe></osclass>
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="4.X" accuracy="100"><cpe>cpe:/o:linux:linux_kernel:4</cpe></osclass>
+</osmatch>
+
+<address addr="9C:76:0E:57:F9:EA" addrtype="mac" vendor="Apple"/>
+
+<address addr="58:11:22:9A:8D:FA" addrtype="mac" vendor="ASUSTek Computer"/>
+<osmatch name="Linux 4.15 - 5.8" accuracy="100" line="67250">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="4.X" accuracy="100"><cpe>cpe:/o:linux:linux_kernel:4</cpe></osclass>
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="5.X" accuracy="100"><cpe>cpe:/o:linux:linux_kernel:5</cpe></osclass>
+</osmatch>
+
+<address addr="F0:2F:74:21:30:2A" addrtype="mac" vendor="ASUSTek Computer"/>
+<osmatch name="Microsoft Windows 10 1909" accuracy="90" line="107973">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="10" accuracy="90"><cpe>cpe:/o:microsoft:windows_10</cpe></osclass>
+</osmatch>
+<osmatch name="Microsoft Windows Server 2019" accuracy="90" line="108162">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2019" accuracy="90"/>
+</osmatch>
+<osmatch name="Microsoft Windows XP SP3" accuracy="85" line="84889">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="XP" accuracy="85"><cpe>cpe:/o:microsoft:windows_xp::sp3</cpe></osclass>
+</osmatch>
+
+<address addr="00:1E:06:42:A9:C3" addrtype="mac" vendor="Wibrain"/>
+<osmatch name="Linux 4.15 - 5.8" accuracy="100" line="67250">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="4.X" accuracy="100"><cpe>cpe:/o:linux:linux_kernel:4</cpe></osclass>
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="5.X" accuracy="100"><cpe>cpe:/o:linux:linux_kernel:5</cpe></osclass>
+</osmatch>
+
+<address addr="F0:B3:EC:58:7D:71" addrtype="mac" vendor="Apple"/>
+<osmatch name="Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0)" accuracy="94" line="7552">
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="94"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.12.X" accuracy="94"><cpe>cpe:/o:apple:mac_os_x:10.12</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="10.X" accuracy="94"><cpe>cpe:/o:apple:iphone_os:10</cpe></osclass>
+</osmatch>
+<osmatch name="Apple macOS 10.13 (High Sierra) - 10.15 (Catalina) or iOS 11.0 - 13.4 (Darwin 17.0.0 - 19.6.0)" accuracy="93" line="3612">
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="11.X" accuracy="93"><cpe>cpe:/o:apple:iphone_os:11</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="12.X" accuracy="93"><cpe>cpe:/o:apple:iphone_os:12</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="13.X" accuracy="93"><cpe>cpe:/o:apple:iphone_os:13</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.13.X" accuracy="93"><cpe>cpe:/o:apple:mac_os_x:10.13</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.14.X" accuracy="93"><cpe>cpe:/o:apple:mac_os_x:10.14</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.15.X" accuracy="93"><cpe>cpe:/o:apple:mac_os_x:10.15</cpe></osclass>
+</osmatch>
+<osmatch name="Apple macOS 11 (Big Sur) (Darwin 20.6.0)" accuracy="93" line="107991">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="11.X" accuracy="93"/>
+</osmatch>
+<osmatch name="Apple TV 5" accuracy="93" line="3338">
+<osclass type="media device" vendor="Apple" osfamily="Apple TV" osgen="5.X" accuracy="93"><cpe>cpe:/o:apple:apple_tv:5</cpe></osclass>
+</osmatch>
+<osmatch name="Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)" accuracy="91" line="6483">
+<osclass type="general purpose" vendor="Apple" osfamily="Mac OS X" osgen="10.7.X" accuracy="91"><cpe>cpe:/o:apple:mac_os_x:10.7</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.8.X" accuracy="91"><cpe>cpe:/o:apple:mac_os_x:10.8</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.9.X" accuracy="91"><cpe>cpe:/o:apple:mac_os_x:10.9</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.10.X" accuracy="91"><cpe>cpe:/o:apple:mac_os_x:10.10</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="91"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.12.X" accuracy="91"><cpe>cpe:/o:apple:mac_os_x:10.12</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:4</cpe><cpe>cpe:/a:apple:apple_tv:4</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:4</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="5.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:5</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="6.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:6</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="7.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:7</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="8.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:8</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="9.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:9</cpe></osclass>
+</osmatch>
+<osmatch name="Apple Mac OS X 10.11 (El Capitan) or iOS 12.4 - 13.6 (Darwin 15.6.0 - 19.6.0)" accuracy="90" line="7509">
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="12.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:12</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="13.X" accuracy="90"/>
+</osmatch>
+<osmatch name="Apple macOS 10.15 (Catalina) (Darwin 19.6.0)" accuracy="90" line="108025">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.15.X" accuracy="90"/>
+</osmatch>
+<osmatch name="Apple macOS 11 (Big Sur) (Darwin 20.5.0)" accuracy="90" line="108042">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="11.X" accuracy="90"/>
+</osmatch>
+<osmatch name="Apple TV 5.2.1 or 5.3" accuracy="90" line="3357">
+<osclass type="media device" vendor="Apple" osfamily="Apple TV" osgen="5.X" accuracy="90"><cpe>cpe:/a:apple:apple_tv:5.2.1</cpe><cpe>cpe:/a:apple:apple_tv:5.3</cpe></osclass>
+</osmatch>
+<osmatch name="Apple Mac OS X 10.6.5 (Snow Leopard) (Darwin 10.5.0)" accuracy="90" line="6266">
+<osclass type="general purpose" vendor="Apple" osfamily="Mac OS X" osgen="10.6.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.6.5</cpe></osclass>
+</osmatch>
+
+<address addr="A0:78:17:6E:D4:70" addrtype="mac" vendor="Apple"/>
+<osmatch name="Apple macOS 11 (Big Sur) (Darwin 20.6.0)" accuracy="100" line="107991">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="11.X" accuracy="100"/>
+</osmatch>
+
+<address addr="60:55:F9:40:11:A8" addrtype="mac" vendor="Espressif"/>
+<osmatch name="2N Helios IP VoIP doorbell" accuracy="96" line="47">
+<osclass type="specialized" vendor="2N" osfamily="embedded" accuracy="96"><cpe>cpe:/h:2n:helios</cpe></osclass>
+</osmatch>
+<osmatch name="Advanced Illumination DCS-100E lighting controller" accuracy="96" line="1611">
+<osclass type="specialized" vendor="Advanced Illumination" osfamily="embedded" accuracy="96"><cpe>cpe:/h:advanced_illumination:dcs-100e</cpe></osclass>
+</osmatch>
+<osmatch name="AudioControl D3400 network amplifier" accuracy="96" line="8593">
+<osclass type="media device" vendor="AudioControl" osfamily="embedded" accuracy="96"><cpe>cpe:/h:audiocontrol:d3400</cpe></osclass>
+</osmatch>
+<osmatch name="British Gas GS-Z3 data logger" accuracy="96" line="10621">
+<osclass type="storage-misc" vendor="British Gas" osfamily="embedded" accuracy="96"/>
+</osmatch>
+<osmatch name="Daysequerra M4.2SI radio" accuracy="96" line="21003">
+<osclass type="media device" vendor="Daysequerra" osfamily="embedded" accuracy="96"><cpe>cpe:/h:daysequerra:m4.2si</cpe></osclass>
+</osmatch>
+<osmatch name="Denver Electronics AC-5000W MK2 camera" accuracy="96" line="22847">
+<osclass type="webcam" vendor="Denver Electronics" osfamily="embedded" accuracy="96"><cpe>cpe:/h:denver_electronics:ac-5000w</cpe></osclass>
+</osmatch>
+<osmatch name="DTE Energy Bridge (lwIP stack)" accuracy="96" line="23511">
+<osclass type="specialized" vendor="DTE" osfamily="embedded" accuracy="96"/>
+<osclass type="specialized" vendor="lwIP" osfamily="lwIP" accuracy="96"><cpe>cpe:/a:lwip_project:lwip</cpe></osclass>
+</osmatch>
+<osmatch name="Enlogic PDU (FreeRTOS/lwIP)" accuracy="96" line="24220">
+<osclass type="specialized" vendor="Enlogic" osfamily="embedded" accuracy="96"/>
+<osclass type="specialized" vendor="lwIP" osfamily="lwIP" accuracy="96"><cpe>cpe:/a:lwip_project:lwip</cpe></osclass>
+</osmatch>
+<osmatch name="Espressif esp8266 firmware (lwIP stack)" accuracy="96" line="24709">
+<osclass type="specialized" vendor="Espressif" osfamily="embedded" accuracy="96"/>
+<osclass type="general purpose" vendor="lwIP" osfamily="lwIP" accuracy="96"><cpe>cpe:/a:lwip_project:lwip</cpe></osclass>
+</osmatch>
+<osmatch name="Espressif ESP8266 WiFi system-on-a-chip" accuracy="96" line="24728">
+<osclass type="specialized" vendor="Espressif" osfamily="embedded" accuracy="96"/>
+</osmatch>
+
+<address addr="F0:B3:EC:58:7D:71" addrtype="mac" vendor="Apple"/>
+<osmatch name="Apple macOS 11 (Big Sur) (Darwin 20.6.0)" accuracy="93" line="107991">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="11.X" accuracy="93"/>
+</osmatch>
+<osmatch name="Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)" accuracy="90" line="6483">
+<osclass type="general purpose" vendor="Apple" osfamily="Mac OS X" osgen="10.7.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.7</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.8.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.8</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.9.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.9</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.10.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.10</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.12.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.12</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:4</cpe><cpe>cpe:/a:apple:apple_tv:4</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:4</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="5.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:5</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="6.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:6</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="7.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:7</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="8.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:8</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="9.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:9</cpe></osclass>
+</osmatch>
+<osmatch name="Apple Mac OS X 10.11 (El Capitan) or iOS 12.4 - 13.6 (Darwin 15.6.0 - 19.6.0)" accuracy="90" line="7509">
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="12.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:12</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="13.X" accuracy="90"/>
+</osmatch>
+<osmatch name="Apple macOS 10.13 (High Sierra) - 10.15 (Catalina) or iOS 11.0 - 13.4 (Darwin 17.0.0 - 19.6.0)" accuracy="89" line="3612">
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="11.X" accuracy="89"><cpe>cpe:/o:apple:iphone_os:11</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="12.X" accuracy="89"><cpe>cpe:/o:apple:iphone_os:12</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="13.X" accuracy="89"><cpe>cpe:/o:apple:iphone_os:13</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.13.X" accuracy="89"><cpe>cpe:/o:apple:mac_os_x:10.13</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.14.X" accuracy="89"><cpe>cpe:/o:apple:mac_os_x:10.14</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.15.X" accuracy="89"><cpe>cpe:/o:apple:mac_os_x:10.15</cpe></osclass>
+</osmatch>
+<osmatch name="Apple macOS 10.15 (Catalina) (Darwin 19.6.0)" accuracy="89" line="108025">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.15.X" accuracy="89"/>
+</osmatch>
+<osmatch name="Apple macOS 12 (Monterey) (Darwin 21.6.0)" accuracy="89" line="108008">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="12.X" accuracy="89"/>
+</osmatch>
+<osmatch name="Apple iOS 9.0 (Darwin 15.0.0)" accuracy="88" line="4416">
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="9.X" accuracy="88"><cpe>cpe:/o:apple:iphone_os:9.0</cpe></osclass>
+</osmatch>
+<osmatch name="Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0)" accuracy="87" line="7552">
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="87"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.12.X" accuracy="87"><cpe>cpe:/o:apple:mac_os_x:10.12</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="10.X" accuracy="87"><cpe>cpe:/o:apple:iphone_os:10</cpe></osclass>
+</osmatch>
+<osmatch name="Apple Mac OS X Server 10.5 (Leopard) pre-release build 9A284" accuracy="87" line="6048">
+<osclass type="general purpose" vendor="Apple" osfamily="Mac OS X" osgen="10.5.X" accuracy="87"><cpe>cpe:/o:apple:mac_os_x_server:10.5</cpe></osclass>
+</osmatch>
+<osmatch name="Apple iPad tablet computer (iOS 4.3.2)" accuracy="87" line="3678">
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="87"><cpe>cpe:/o:apple:iphone_os:4.3.2</cpe></osclass>
+</osmatch>
+
+<address addr="92:47:44:A1:53:26" addrtype="mac"/>
+<osmatch name="Apple macOS 11 (Big Sur) (Darwin 20.6.0)" accuracy="96" line="107991">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="11.X" accuracy="96"/>
+</osmatch>
+<osmatch name="Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)" accuracy="94" line="6483">
+<osclass type="general purpose" vendor="Apple" osfamily="Mac OS X" osgen="10.7.X" accuracy="94"><cpe>cpe:/o:apple:mac_os_x:10.7</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.8.X" accuracy="94"><cpe>cpe:/o:apple:mac_os_x:10.8</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.9.X" accuracy="94"><cpe>cpe:/o:apple:mac_os_x:10.9</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.10.X" accuracy="94"><cpe>cpe:/o:apple:mac_os_x:10.10</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="94"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.12.X" accuracy="94"><cpe>cpe:/o:apple:mac_os_x:10.12</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="94"><cpe>cpe:/o:apple:iphone_os:4</cpe><cpe>cpe:/a:apple:apple_tv:4</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="94"><cpe>cpe:/o:apple:iphone_os:4</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="5.X" accuracy="94"><cpe>cpe:/o:apple:iphone_os:5</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="6.X" accuracy="94"><cpe>cpe:/o:apple:iphone_os:6</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="7.X" accuracy="94"><cpe>cpe:/o:apple:iphone_os:7</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="8.X" accuracy="94"><cpe>cpe:/o:apple:iphone_os:8</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="9.X" accuracy="94"><cpe>cpe:/o:apple:iphone_os:9</cpe></osclass>
+</osmatch>
+<osmatch name="Apple macOS 10.13 (High Sierra) - 10.15 (Catalina) or iOS 11.0 - 13.4 (Darwin 17.0.0 - 19.6.0)" accuracy="93" line="3612">
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="11.X" accuracy="93"><cpe>cpe:/o:apple:iphone_os:11</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="12.X" accuracy="93"><cpe>cpe:/o:apple:iphone_os:12</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="13.X" accuracy="93"><cpe>cpe:/o:apple:iphone_os:13</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.13.X" accuracy="93"><cpe>cpe:/o:apple:mac_os_x:10.13</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.14.X" accuracy="93"><cpe>cpe:/o:apple:mac_os_x:10.14</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.15.X" accuracy="93"><cpe>cpe:/o:apple:mac_os_x:10.15</cpe></osclass>
+</osmatch>
+<osmatch name="Apple Mac OS X 10.11 (El Capitan) or iOS 12.4 - 13.6 (Darwin 15.6.0 - 19.6.0)" accuracy="93" line="7509">
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="93"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="12.X" accuracy="93"><cpe>cpe:/o:apple:iphone_os:12</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="13.X" accuracy="93"/>
+</osmatch>
+<osmatch name="Apple macOS 10.15 (Catalina) (Darwin 19.6.0)" accuracy="93" line="108025">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.15.X" accuracy="93"/>
+</osmatch>
+<osmatch name="Apple macOS 12 (Monterey) (Darwin 21.6.0)" accuracy="93" line="108008">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="12.X" accuracy="93"/>
+</osmatch>
+<osmatch name="Apple iOS 9.0 (Darwin 15.0.0)" accuracy="92" line="4416">
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="9.X" accuracy="92"><cpe>cpe:/o:apple:iphone_os:9.0</cpe></osclass>
+</osmatch>
+<osmatch name="Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0)" accuracy="91" line="7552">
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="91"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.12.X" accuracy="91"><cpe>cpe:/o:apple:mac_os_x:10.12</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="10.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:10</cpe></osclass>
+</osmatch>
+<osmatch name="Apple iPad tablet computer (iOS 4.3.2)" accuracy="90" line="3678">
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:4.3.2</cpe></osclass>
+</osmatch>
+<osmatch name="Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)" accuracy="90" line="3815">
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:4</cpe></osclass>
+</osmatch>
+
+<address addr="B8:27:EB:9D:A2:C8" addrtype="mac" vendor="Raspberry Pi Foundation"/>
+<osmatch name="Linux 4.15 - 5.8" accuracy="100" line="67250">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="4.X" accuracy="100"><cpe>cpe:/o:linux:linux_kernel:4</cpe></osclass>
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="5.X" accuracy="100"><cpe>cpe:/o:linux:linux_kernel:5</cpe></osclass>
+</osmatch>
+
+<address addr="10:A5:1D:2B:2E:1F" addrtype="mac" vendor="Intel Corporate"/>
+
+<address addr="F0:B3:EC:58:7D:71" addrtype="mac" vendor="Apple"/>
+<osmatch name="Apple macOS 11 (Big Sur) (Darwin 20.6.0)" accuracy="93" line="107991">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="11.X" accuracy="93"/>
+</osmatch>
+<osmatch name="Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)" accuracy="90" line="6483">
+<osclass type="general purpose" vendor="Apple" osfamily="Mac OS X" osgen="10.7.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.7</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.8.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.8</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.9.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.9</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.10.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.10</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.12.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.12</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:4</cpe><cpe>cpe:/a:apple:apple_tv:4</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:4</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="5.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:5</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="6.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:6</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="7.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:7</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="8.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:8</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="9.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:9</cpe></osclass>
+</osmatch>
+<osmatch name="Apple macOS 10.13 (High Sierra) - 10.15 (Catalina) or iOS 11.0 - 13.4 (Darwin 17.0.0 - 19.6.0)" accuracy="90" line="3612">
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="11.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:11</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="12.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:12</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="13.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:13</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.13.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.13</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.14.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.14</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.15.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.15</cpe></osclass>
+</osmatch>
+<osmatch name="Apple macOS 10.15 (Catalina) (Darwin 19.6.0)" accuracy="90" line="108025">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.15.X" accuracy="90"/>
+</osmatch>
+<osmatch name="Apple macOS 12 (Monterey) (Darwin 21.6.0)" accuracy="89" line="108008">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="12.X" accuracy="89"/>
+</osmatch>
+<osmatch name="Apple Mac OS X 10.11 (El Capitan) or iOS 12.4 - 13.6 (Darwin 15.6.0 - 19.6.0)" accuracy="89" line="7509">
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="89"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="12.X" accuracy="89"><cpe>cpe:/o:apple:iphone_os:12</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="13.X" accuracy="89"/>
+</osmatch>
+<osmatch name="Apple iOS 9.0 (Darwin 15.0.0)" accuracy="89" line="4416">
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="9.X" accuracy="89"><cpe>cpe:/o:apple:iphone_os:9.0</cpe></osclass>
+</osmatch>
+<osmatch name="Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0)" accuracy="87" line="7552">
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="87"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.12.X" accuracy="87"><cpe>cpe:/o:apple:mac_os_x:10.12</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="10.X" accuracy="87"><cpe>cpe:/o:apple:iphone_os:10</cpe></osclass>
+</osmatch>
+<osmatch name="Apple iPad tablet computer (iOS 4.3.2)" accuracy="87" line="3678">
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="87"><cpe>cpe:/o:apple:iphone_os:4.3.2</cpe></osclass>
+</osmatch>
+<osmatch name="Apple iPad tablet computer or iPhone mobile phone (iOS 4.0 - 4.1)" accuracy="87" line="3815">
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="87"><cpe>cpe:/o:apple:iphone_os:4</cpe></osclass>
+</osmatch>
+
+<address addr="1E:44:8F:44:07:B2" addrtype="mac"/>
+<osmatch name="Apple macOS 11 (Big Sur) (Darwin 20.6.0)" accuracy="100" line="107991">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="11.X" accuracy="100"/>
+</osmatch>
+
+<address addr="A2:F2:C9:65:05:8B" addrtype="mac"/>
+<osmatch name="Apple macOS 11 (Big Sur) (Darwin 20.6.0)" accuracy="93" line="107991">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="11.X" accuracy="93"/>
+</osmatch>
+<osmatch name="Apple Mac OS X 10.7.0 (Lion) - 10.12 (Sierra) or iOS 4.1 - 9.3.3 (Darwin 10.0.0 - 16.4.0)" accuracy="91" line="6483">
+<osclass type="general purpose" vendor="Apple" osfamily="Mac OS X" osgen="10.7.X" accuracy="91"><cpe>cpe:/o:apple:mac_os_x:10.7</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.8.X" accuracy="91"><cpe>cpe:/o:apple:mac_os_x:10.8</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.9.X" accuracy="91"><cpe>cpe:/o:apple:mac_os_x:10.9</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.10.X" accuracy="91"><cpe>cpe:/o:apple:mac_os_x:10.10</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="91"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.12.X" accuracy="91"><cpe>cpe:/o:apple:mac_os_x:10.12</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:4</cpe><cpe>cpe:/a:apple:apple_tv:4</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="4.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:4</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="5.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:5</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="6.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:6</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="7.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:7</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="8.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:8</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="9.X" accuracy="91"><cpe>cpe:/o:apple:iphone_os:9</cpe></osclass>
+</osmatch>
+<osmatch name="Apple macOS 10.13 (High Sierra) - 10.15 (Catalina) or iOS 11.0 - 13.4 (Darwin 17.0.0 - 19.6.0)" accuracy="90" line="3612">
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="11.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:11</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="12.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:12</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="13.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:13</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.13.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.13</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.14.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.14</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.15.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.15</cpe></osclass>
+</osmatch>
+<osmatch name="Apple Mac OS X 10.11 (El Capitan) or iOS 12.4 - 13.6 (Darwin 15.6.0 - 19.6.0)" accuracy="90" line="7509">
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="90"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="12.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:12</cpe></osclass>
+<osclass type="media device" vendor="Apple" osfamily="iOS" osgen="13.X" accuracy="90"/>
+</osmatch>
+<osmatch name="Apple macOS 10.15 (Catalina) (Darwin 19.6.0)" accuracy="90" line="108025">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.15.X" accuracy="90"/>
+</osmatch>
+<osmatch name="Apple iOS 9.0 (Darwin 15.0.0)" accuracy="90" line="4416">
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="9.X" accuracy="90"><cpe>cpe:/o:apple:iphone_os:9.0</cpe></osclass>
+</osmatch>
+<osmatch name="Apple TV 5.2.1 or 5.3" accuracy="90" line="3357">
+<osclass type="media device" vendor="Apple" osfamily="Apple TV" osgen="5.X" accuracy="90"><cpe>cpe:/a:apple:apple_tv:5.2.1</cpe><cpe>cpe:/a:apple:apple_tv:5.3</cpe></osclass>
+</osmatch>
+<osmatch name="Apple macOS 11 (Big Sur) (Darwin 20.5.0)" accuracy="90" line="108042">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="11.X" accuracy="90"/>
+</osmatch>
+<osmatch name="DragonFly BSD 4.6-RELEASE" accuracy="88" line="23348">
+<osclass type="general purpose" vendor="DragonFly BSD" osfamily="DragonFly BSD" osgen="4.X" accuracy="88"><cpe>cpe:/o:dragonflybsd:dragonfly_bsd:4.6</cpe></osclass>
+</osmatch>
+<osmatch name="Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0)" accuracy="88" line="7552">
+<osclass type="general purpose" vendor="Apple" osfamily="OS X" osgen="10.11.X" accuracy="88"><cpe>cpe:/o:apple:mac_os_x:10.11</cpe></osclass>
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="10.12.X" accuracy="88"><cpe>cpe:/o:apple:mac_os_x:10.12</cpe></osclass>
+<osclass type="phone" vendor="Apple" osfamily="iOS" osgen="10.X" accuracy="88"><cpe>cpe:/o:apple:iphone_os:10</cpe></osclass>
+</osmatch>
+
+<address addr="14:C1:4E:67:E2:A0" addrtype="mac" vendor="Google"/>
+<osmatch name="Linux 3.2 - 4.9" accuracy="100" line="65323">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="100"><cpe>cpe:/o:linux:linux_kernel:3</cpe></osclass>
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="4.X" accuracy="100"><cpe>cpe:/o:linux:linux_kernel:4</cpe></osclass>
+</osmatch>
+
+<address addr="1C:53:F9:34:56:9A" addrtype="mac" vendor="Google"/>
+<osmatch name="Android 6.0 - 7.1.2 (Linux 3.18 - 4.4.1)" accuracy="98" line="31701">
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="6.X" accuracy="98"><cpe>cpe:/o:google:android:6</cpe></osclass>
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="7.X" accuracy="98"><cpe>cpe:/o:google:android:7</cpe></osclass>
+<osclass type="phone" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="98"><cpe>cpe:/o:linux:linux_kernel:3</cpe></osclass>
+<osclass type="phone" vendor="Linux" osfamily="Linux" osgen="4.X" accuracy="98"><cpe>cpe:/o:linux:linux_kernel:4</cpe></osclass>
+</osmatch>
+<osmatch name="Android 5.0 - 7.0 (Linux 3.4 - 3.10)" accuracy="97" line="31549">
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="5.X" accuracy="97"><cpe>cpe:/o:google:android:5</cpe></osclass>
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="6.X" accuracy="97"><cpe>cpe:/o:google:android:6</cpe></osclass>
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="7.X" accuracy="97"><cpe>cpe:/o:google:android:7</cpe></osclass>
+<osclass type="phone" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="97"><cpe>cpe:/o:linux:linux_kernel:3</cpe></osclass>
+</osmatch>
+<osmatch name="Linux 2.6.32" accuracy="96" line="55372">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="2.6.X" accuracy="96"><cpe>cpe:/o:linux:linux_kernel:2.6.32</cpe></osclass>
+</osmatch>
+<osmatch name="Linux 3.2 - 4.9" accuracy="96" line="65323">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="96"><cpe>cpe:/o:linux:linux_kernel:3</cpe></osclass>
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="4.X" accuracy="96"><cpe>cpe:/o:linux:linux_kernel:4</cpe></osclass>
+</osmatch>
+<osmatch name="Linux 2.6.32 - 3.10" accuracy="96" line="56580">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="2.6.X" accuracy="96"><cpe>cpe:/o:linux:linux_kernel:2.6</cpe></osclass>
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="96"><cpe>cpe:/o:linux:linux_kernel:3</cpe></osclass>
+</osmatch>
+<osmatch name="Android 5.0 - 6.0.1 (Linux 3.4)" accuracy="96" line="31521">
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="5.X" accuracy="96"><cpe>cpe:/o:google:android:5</cpe></osclass>
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="6.X" accuracy="96"><cpe>cpe:/o:google:android:6</cpe></osclass>
+<osclass type="phone" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="96"><cpe>cpe:/o:linux:linux_kernel:3.4</cpe></osclass>
+</osmatch>
+<osmatch name="Linux 3.2" accuracy="96" line="64764">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="96"><cpe>cpe:/o:linux:linux_kernel:3.2</cpe></osclass>
+</osmatch>
+<osmatch name="Android 7.1.1 - 7.1.2" accuracy="95" line="31804">
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="7.X" accuracy="95"><cpe>cpe:/o:google:android:7</cpe></osclass>
+</osmatch>
+<osmatch name="Linux 3.2 - 3.16" accuracy="95" line="65151">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="95"><cpe>cpe:/o:linux:linux_kernel:3</cpe></osclass>
+</osmatch>
+<osmatch name="Linux 3.1" accuracy="95" line="62926">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="95"><cpe>cpe:/o:linux:linux_kernel:3.1</cpe></osclass>
+</osmatch>
+
+<address addr="80:0C:F9:1D:A9:04" addrtype="mac" vendor="Amazon Technologies"/>
+<osmatch name="Android 6.0 - 7.1.2 (Linux 3.18 - 4.4.1)" accuracy="100" line="31701">
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="6.X" accuracy="100"><cpe>cpe:/o:google:android:6</cpe></osclass>
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="7.X" accuracy="100"><cpe>cpe:/o:google:android:7</cpe></osclass>
+<osclass type="phone" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="100"><cpe>cpe:/o:linux:linux_kernel:3</cpe></osclass>
+<osclass type="phone" vendor="Linux" osfamily="Linux" osgen="4.X" accuracy="100"><cpe>cpe:/o:linux:linux_kernel:4</cpe></osclass>
+</osmatch>
+
+<address addr="1C:93:C4:3F:29:13" addrtype="mac" vendor="Amazon Technologies"/>
+<osmatch name="Sony X75CH-series Android TV (Android 5.0)" accuracy="98" line="31498">
+<osclass type="media device" vendor="Google" osfamily="Android" osgen="5.X" accuracy="98"><cpe>cpe:/o:google:android:5.0</cpe><cpe>cpe:/h:sony:x75ch</cpe></osclass>
+</osmatch>
+<osmatch name="Android 4.1 - 6.0 (Linux 3.4 - 3.14)" accuracy="97" line="31415">
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="4.X" accuracy="97"><cpe>cpe:/o:google:android:4</cpe></osclass>
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="5.X" accuracy="97"><cpe>cpe:/o:google:android:5</cpe></osclass>
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="6.X" accuracy="97"><cpe>cpe:/o:google:android:6</cpe></osclass>
+<osclass type="phone" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="97"><cpe>cpe:/o:linux:linux_kernel:3</cpe></osclass>
+</osmatch>
+<osmatch name="Linux 2.6.32" accuracy="96" line="55372">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="2.6.X" accuracy="96"><cpe>cpe:/o:linux:linux_kernel:2.6.32</cpe></osclass>
+</osmatch>
+<osmatch name="Linux 3.2 - 4.9" accuracy="96" line="65323">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="96"><cpe>cpe:/o:linux:linux_kernel:3</cpe></osclass>
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="4.X" accuracy="96"><cpe>cpe:/o:linux:linux_kernel:4</cpe></osclass>
+</osmatch>
+<osmatch name="Netgear ReadyNAS 2100 (RAIDiator 4.2.24)" accuracy="96" line="88526">
+<osclass type="storage-misc" vendor="Netgear" osfamily="RAIDiator" osgen="4.X" accuracy="96"><cpe>cpe:/o:netgear:raidiator:4.2.24</cpe></osclass>
+</osmatch>
+<osmatch name="Linux 2.6.32 - 3.10" accuracy="96" line="56580">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="2.6.X" accuracy="96"><cpe>cpe:/o:linux:linux_kernel:2.6</cpe></osclass>
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="96"><cpe>cpe:/o:linux:linux_kernel:3</cpe></osclass>
+</osmatch>
+<osmatch name="Linux 5.0 - 5.5" accuracy="96" line="68098">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="5.X" accuracy="96"><cpe>cpe:/o:linux:linux_kernel:5</cpe></osclass>
+</osmatch>
+<osmatch name="Android 4.2.2 (Linux 3.4)" accuracy="95" line="31262">
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="4.2.X" accuracy="95"><cpe>cpe:/o:google:android:4.2.2</cpe></osclass>
+</osmatch>
+<osmatch name="Android 5.1" accuracy="95" line="31629">
+<osclass type="phone" vendor="Google" osfamily="Android" osgen="5.X" accuracy="95"><cpe>cpe:/o:google:android:5.1</cpe></osclass>
+</osmatch>
+<osmatch name="Linux 3.1" accuracy="95" line="62926">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="3.X" accuracy="95"><cpe>cpe:/o:linux:linux_kernel:3.1</cpe></osclass>
+</osmatch>
+
+<address addr="F8:0F:F9:53:5A:EA" addrtype="mac" vendor="Google"/>
+<osmatch name="FreeNAS 0.69RC2 (FreeBSD 6.4-RELEASE)" accuracy="88" line="29797">
+<osclass type="storage-misc" vendor="FreeNAS" osfamily="FreeNAS" osgen="0.X" accuracy="88"><cpe>cpe:/o:freenas:freenas:0.69rc2</cpe></osclass>
+<osclass type="storage-misc" vendor="FreeBSD" osfamily="FreeBSD" osgen="6.X" accuracy="88"><cpe>cpe:/o:freebsd:freebsd:6.4</cpe></osclass>
+</osmatch>
+<osmatch name="3Com SuperStack 3 Switch 3870" accuracy="87" line="635">
+<osclass type="switch" vendor="3Com" osfamily="embedded" accuracy="87"><cpe>cpe:/h:3com:superstack_3_switch_3870</cpe></osclass>
+</osmatch>
+<osmatch name="FreeNAS 0.69 (FreeBSD 6.4-RELEASE-p3)" accuracy="87" line="29733">
+<osclass type="storage-misc" vendor="FreeNAS" osfamily="FreeNAS" osgen="0.X" accuracy="87"><cpe>cpe:/o:freenas:freenas:0.69</cpe></osclass>
+<osclass type="storage-misc" vendor="FreeBSD" osfamily="FreeBSD" osgen="6.X" accuracy="87"><cpe>cpe:/o:freebsd:freebsd:6.4</cpe></osclass>
+</osmatch>
+<osmatch name="Avocent ACS 5000 console server (Linux 2.6.11)" accuracy="87" line="8975">
+<osclass type="remote management" vendor="Avocent" osfamily="embedded" accuracy="87"/>
+</osmatch>
+<osmatch name="D-Link DPR-1260 print server; or DGL-4300, DGL-4500, DIR-615, DIR-625, DIR-628, DIR-655, or DIR-855 WAP" accuracy="87" line="19997">
+<osclass type="print server" vendor="D-Link" osfamily="embedded" accuracy="87"><cpe>cpe:/h:dlink:dpr-1260</cpe></osclass>
+<osclass type="WAP" vendor="D-Link" osfamily="embedded" accuracy="87"><cpe>cpe:/h:dlink:dgl-4300</cpe><cpe>cpe:/h:dlink:dgl-4500</cpe><cpe>cpe:/h:dlink:dir-615</cpe><cpe>cpe:/h:dlink:dir-625</cpe><cpe>cpe:/h:dlink:dir-628</cpe><cpe>cpe:/h:dlink:dir-655</cpe><cpe>cpe:/h:dlink:dir-855</cpe></osclass>
+</osmatch>
+<osmatch name="Epson Stylus Pro 400 printer" accuracy="86" line="24561">
+<osclass type="printer" vendor="Epson" osfamily="embedded" accuracy="86"><cpe>cpe:/h:epson:stylus_pro_400</cpe></osclass>
+</osmatch>
+<osmatch name="Symbian^3" accuracy="86" line="101517">
+<osclass type="phone" vendor="Symbian OS" osfamily="Symbian OS" osgen="3" accuracy="86"><cpe>cpe:/o:symbianos:symbian_os:3</cpe></osclass>
+</osmatch>
+<osmatch name="Linux 2.6.18" accuracy="86" line="49542">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="2.6.X" accuracy="86"><cpe>cpe:/o:linux:linux_kernel:2.6.18</cpe></osclass>
+</osmatch>
+<osmatch name="uClinux 2.4.19-uc1 (ARM)" accuracy="86" line="46957">
+<osclass type="webcam" vendor="Linux" osfamily="Linux" osgen="2.4.X" accuracy="86"><cpe>cpe:/o:linux:linux_kernel:2.4</cpe></osclass>
+</osmatch>
+<osmatch name="Scientific Atlanta WebSTAR EPC2203 cable modem" accuracy="86" line="96577">
+<osclass type="broadband router" vendor="Scientific Atlanta" osfamily="embedded" accuracy="86"><cpe>cpe:/h:scientificatlanta:webstar_epc2203</cpe></osclass>
+</osmatch>
+
+<address addr="40:4C:CA:7D:B2:98" addrtype="mac"/>
+<osmatch name="2N Helios IP VoIP doorbell" accuracy="96" line="47">
+<osclass type="specialized" vendor="2N" osfamily="embedded" accuracy="96"><cpe>cpe:/h:2n:helios</cpe></osclass>
+</osmatch>
+<osmatch name="Advanced Illumination DCS-100E lighting controller" accuracy="96" line="1611">
+<osclass type="specialized" vendor="Advanced Illumination" osfamily="embedded" accuracy="96"><cpe>cpe:/h:advanced_illumination:dcs-100e</cpe></osclass>
+</osmatch>
+<osmatch name="AudioControl D3400 network amplifier" accuracy="96" line="8593">
+<osclass type="media device" vendor="AudioControl" osfamily="embedded" accuracy="96"><cpe>cpe:/h:audiocontrol:d3400</cpe></osclass>
+</osmatch>
+<osmatch name="British Gas GS-Z3 data logger" accuracy="96" line="10621">
+<osclass type="storage-misc" vendor="British Gas" osfamily="embedded" accuracy="96"/>
+</osmatch>
+<osmatch name="Daysequerra M4.2SI radio" accuracy="96" line="21003">
+<osclass type="media device" vendor="Daysequerra" osfamily="embedded" accuracy="96"><cpe>cpe:/h:daysequerra:m4.2si</cpe></osclass>
+</osmatch>
+<osmatch name="Denver Electronics AC-5000W MK2 camera" accuracy="96" line="22847">
+<osclass type="webcam" vendor="Denver Electronics" osfamily="embedded" accuracy="96"><cpe>cpe:/h:denver_electronics:ac-5000w</cpe></osclass>
+</osmatch>
+<osmatch name="DTE Energy Bridge (lwIP stack)" accuracy="96" line="23511">
+<osclass type="specialized" vendor="DTE" osfamily="embedded" accuracy="96"/>
+<osclass type="specialized" vendor="lwIP" osfamily="lwIP" accuracy="96"><cpe>cpe:/a:lwip_project:lwip</cpe></osclass>
+</osmatch>
+<osmatch name="Enlogic PDU (FreeRTOS/lwIP)" accuracy="96" line="24220">
+<osclass type="specialized" vendor="Enlogic" osfamily="embedded" accuracy="96"/>
+<osclass type="specialized" vendor="lwIP" osfamily="lwIP" accuracy="96"><cpe>cpe:/a:lwip_project:lwip</cpe></osclass>
+</osmatch>
+<osmatch name="Espressif esp8266 firmware (lwIP stack)" accuracy="96" line="24709">
+<osclass type="specialized" vendor="Espressif" osfamily="embedded" accuracy="96"/>
+<osclass type="general purpose" vendor="lwIP" osfamily="lwIP" accuracy="96"><cpe>cpe:/a:lwip_project:lwip</cpe></osclass>
+</osmatch>
+<osmatch name="Espressif ESP8266 WiFi system-on-a-chip" accuracy="96" line="24728">
+<osclass type="specialized" vendor="Espressif" osfamily="embedded" accuracy="96"/>
+</osmatch>
+
+<address addr="54:14:F3:9D:7A:29" addrtype="mac" vendor="Intel Corporate"/>
+<osmatch name="Microsoft Windows 11 21H2" accuracy="97" line="108230">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="11" accuracy="97"/>
+</osmatch>
+<osmatch name="Microsoft Windows 10" accuracy="92" line="69394">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="10" accuracy="92"><cpe>cpe:/o:microsoft:windows_10</cpe></osclass>
+</osmatch>
+<osmatch name="Microsoft Windows Server 2022" accuracy="91" line="108094">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2022" accuracy="91"/>
+</osmatch>
+<osmatch name="Microsoft Windows Phone 7.5 or 8.0" accuracy="88" line="79354">
+<osclass type="phone" vendor="Microsoft" osfamily="Windows" osgen="Phone" accuracy="88"><cpe>cpe:/o:microsoft:windows</cpe></osclass>
+</osmatch>
+<osmatch name="Microsoft Windows Server 2008 SP1" accuracy="88" line="75151">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2008" accuracy="88"><cpe>cpe:/o:microsoft:windows_server_2008::sp1</cpe></osclass>
+</osmatch>
+
+<address addr="5A:51:85:3D:41:0B" addrtype="mac"/>
+<osmatch name="Apple macOS 11 (Big Sur) (Darwin 20.6.0)" accuracy="100" line="107991">
+<osclass type="general purpose" vendor="Apple" osfamily="macOS" osgen="11.X" accuracy="100"/>
+</osmatch>
+
+<address addr="CC:96:E5:E8:F1:AA" addrtype="mac" vendor="Dell"/>
+<osmatch name="Linux 4.15 - 5.8" accuracy="100" line="67250">
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="4.X" accuracy="100"><cpe>cpe:/o:linux:linux_kernel:4</cpe></osclass>
+<osclass type="general purpose" vendor="Linux" osfamily="Linux" osgen="5.X" accuracy="100"><cpe>cpe:/o:linux:linux_kernel:5</cpe></osclass>
+</osmatch>
+
+<address addr="F8:0F:F9:53:5A:EA" addrtype="mac" vendor="Google"/>
